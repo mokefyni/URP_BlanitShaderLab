@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # jetbrain cache 
 /.idea/
+
+# mac folder file
+.DS_Store
